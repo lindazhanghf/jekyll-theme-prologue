@@ -1,6 +1,7 @@
 ---
 title: Problem
-icon: fa-th
+icon: fa-lightbulb
+<!-- icon-style: regular -->
 order: 2
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: Project 
-icon: fa-gamepad
+title: Project
+icon: fa-sign-language
 order: 7
 ---
 
