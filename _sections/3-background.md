@@ -6,7 +6,7 @@ order: 3
 
 ### Interaction Design Framework
 
-Shneiderman defined <b>three principles of direct manipulation for designing a controllable user interface</b> <sub>[shneiderman1997direct]</sub>. His notion of direct manipulation was to differentiate from the traditional command-line interface at the time. It still provides valuable insights on how to design for a predictable and controllable user interface:
+Shneiderman defined **three principles of direct manipulation for designing a controllable user interface** <sub>[shneiderman1997direct]</sub>. His notion of direct manipulation was to differentiate from the traditional command-line interface at the time. It still provides valuable insights on how to design for a predictable and controllable user interface:
 1. Continuous representation of the objects and actions of interest.
 2. Physical actions or presses of labeled buttons instead of complex syntax.
 3. Rapid incremental reversible operations whose effect on the object of interest is immediately visible.
