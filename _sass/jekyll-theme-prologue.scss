@@ -63,7 +63,7 @@
 		background: #fff;
 		font-family: 'Source Sans Pro', sans-serif;
 		font-size: 19pt;
-		font-weight: 300;
+		font-weight: 400;
 		line-height: 1.75em;
 		color: #888;
 
@@ -76,13 +76,13 @@
 	input, textarea, select {
 		font-family: 'Source Sans Pro', sans-serif;
 		font-size: 19pt;
-		font-weight: 300;
+		font-weight: 400;
 		line-height: 1.75em;
 		color: #888;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		font-weight: 300;
+		font-weight: 400;
 		color: #666;
 		line-height: 1.5em;
 	}
@@ -118,7 +118,7 @@
 	}
 
 	strong, b {
-		font-weight: 300;
+		font-weight: 600;
 		color: #666;
 	}
 
@@ -182,8 +182,13 @@
 	blockquote {
 		margin-left: 1em;
 		border-left: solid 0.5em #ddd;
-		padding: 1em 0 1em 2em;
+		padding: 0.5em 0 0.5em 1em;
 		font-style: italic;
+
+		> p {
+			margin-bottom: 0.2em;
+		}
+
 	}
 
 	p, ul, ol, dl, table {
@@ -192,7 +197,7 @@
 
 	dl {
 		dt {
-			font-weight: 300;
+			font-weight: 400;
 			color: #666;
 		}
 		dd {
@@ -291,6 +296,7 @@
 /* List */
 
 	ul {
+		text-align: left;
 		list-style: disc;
 
 		&.icons {
@@ -312,6 +318,7 @@
 	}
 
 	ol {
+		text-align: left;
 		list-style: decimal;
 	}
 
@@ -484,7 +491,7 @@
 
 	.icon-social {
 		padding: 0.2em;
-		font-size: 3em;
+		font-size: 2.8em;
 	}
 
 /* Header */
@@ -649,9 +656,12 @@
 		margin-left: 375px;
 		> section {
 			text-align: center;
+			p {
+				text-align: left;
+			}
 		}
 		> article {
-			text-align: left;
+
 			header {
 				p {
 					font-style: italic;
@@ -978,7 +988,7 @@
 					border: 0;
 
 					&::before {
-						font-family: "Font Awesome 5 Free";
+						font-family: "Font Awesome 5 Free", fa-solid-900;
 						text-decoration: none;
 						font-style: normal;
 						font-weight: 900;
@@ -1057,7 +1067,7 @@
 			h2 {
 				font-size: 1.5em;
 				letter-spacing: 0;
-				font-weight: 300;
+				font-weight: 400;
 			}
 
 			.container {
