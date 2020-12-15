@@ -296,7 +296,6 @@
 /* List */
 
 	ul {
-		text-align: left;
 		list-style: disc;
 
 		&.icons {
@@ -318,9 +317,16 @@
 	}
 
 	ol {
-		text-align: left;
 		list-style: decimal;
 	}
+
+	section {
+
+		ul, ol {
+			text-align: left;
+		}
+	}
+
 
 /* Form */
 
