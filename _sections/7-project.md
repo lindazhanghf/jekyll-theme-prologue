@@ -3,7 +3,7 @@ title: Project
 icon: fa-sign-language
 order: 7
 ---
-### Video Demo
+### [Video Demo](http://lindazhanghf.github.io/ms-video)
 
 
 <iframe width="560" height="315" src="http://lindazhanghf.github.io/ms-video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
@@ -11,7 +11,7 @@ order: 7
 
 ### Documents
 
-For detailed documentations, please refer to: <a href="https://drive.google.com/open?id=1I5cARrjF9TYZXxFUK9tdSBzoi-KT6lu5" target="_blank"><b>Project Documentation</b></a> and <a href="https://drive.google.com/open?id=1I5cARrjF9TYZXxFUK9tdSBzoi-KT6lu5" target="_blank"><b>Defence Presentation</b></a>. The initial idea of this project is presented in: <a href="https://drive.google.com/open?id=1I5cARrjF9TYZXxFUK9tdSBzoi-KT6lu5" target="_blank"><b>Project Proposal</b></a>.
+For detailed documentations, please refer to: <a href="https://drive.google.com/open?id=1I5cARrjF9TYZXxFUK9tdSBzoi-KT6lu5" target="_blank"><b>Project Documentation</b></a> and <a href="https://drive.google.com/file/d/1nhaJ_J6LrW3Z77LXhWHf5HB06dS9iRtK/view?usp=sharing" target="_blank"><b>Defence Presentation</b></a>. The initial idea of this project is presented in: <a href="https://drive.google.com/file/d/1Bx-c34DvuB2ukwHQm0PzIPzXEenF4HW1/view?usp=sharing" target="_blank"><b>Project Proposal</b></a>.
 
 ### Evaluation
 No formal evaluation was possible, due to the Covid-19 pandemic. But the targeted design criteria would focus on compliance with Shneiderman's principles of designing comprehensible, predictable and controllable user interfaces.

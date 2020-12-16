@@ -22,11 +22,11 @@ Humans have always been interacting with animals, from animal husbandry to keepi
     <div class="item">
       <a class="image fit"><img src="assets/images/related-works/eagle-hunter.png" alt="Mogolian Eagle Hunter" /></a>
       <header>
-        <h3><sub>Cecilia Clark. Photography Tour, Visit to a Kazakh Golden Eagle Hunter, Mongolia</sub></h3>
+          <h3><sub>Cecilia Clark. <a href="https://www.vacation-travel-adventure.com/2018/08/visit-to-kazakh-golden-eagle-hunter.html" target="_blank">Photography Tour, Visit to a Kazakh Golden Eagle Hunter, Mongolia</a></sub></h3>
       </header>
     </div>
   </div>
 </div>
 
-Through analyzing dog training procedures and video documentary on eagle hunters, such as [***The Eagle Huntress***](https://www.youtube.com/watch?v=Vfi5JS6HTH0), lots of overlaps in tool usage and training were identified. Both dog training and eagle hunting use a combination of voice and body gesture. The process of raising and bonding with the animal is essential to effective communication with the animal. The design phase explore the development of basic interactions based on human-animal gestures.
+Through analyzing dog training procedures and video documentary on eagle hunters, such as [***The Eagle Huntress***](https://www.youtube.com/watch?v=Vfi5JS6HTH0) and [***Mongolia: The Last Eagle Hunters***](https://youtu.be/UlqFdWgXEPs), lots of overlaps in tool usage and training were identified. Both dog training and eagle hunting use a combination of voice and body gesture. The process of raising and bonding with the animal is essential to effective communication with the animal. The design phase explore the development of basic interactions based on human-animal gestures.
 
