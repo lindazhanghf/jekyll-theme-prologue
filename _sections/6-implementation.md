@@ -10,14 +10,24 @@ The gesture recognition system is implemented using an HTC Vive headset, two Val
 
 The first prototype is a simple scene where the relative position of hands with other parts of the body is used to detect arm gestures. This stage served as an exploration of the technical design space.
 
-  <div class="5u 12u$(mobile)">
+<div class="row">
+  <div class="6u 12u$(mobile)">
     <div class="item">
-      <a class="image fit"><img src="assets/images/project/iter1_cross-body.png" alt="Multiple trigger zones was used to detect simple arm gestures" /></a>
+      <a class="image fit"><img src="assets/images/project/iter1_y-shape.png" alt="Multiple trigger zones was used to detect simple arm gestures" /></a>
       <header>
-        <h3>Multiple trigger zones was used to detect simple arm gestures</h3>
+        <h3>Arm Gesture Detected: arms in a y-shape</h3>
       </header>
     </div>
   </div>
+  <div class="6u 12u$(mobile)">
+    <div class="item">
+      <a class="image fit"><img src="assets/images/project/iter1_cross-body.png" alt="Multiple trigger zones was used to detect simple arm gestures" /></a>
+      <header>
+        <h3>Arm Gesture Detected: hands cross over in front of the chest area</h3>
+      </header>
+    </div>
+  </div>
+</div>
 
 The relative position of hands (represented by the two small cubes in the middle) compared to the position of the head (represented by the sphere) and chest area (represented by the capsule) is used to detect simple gestures. The two outer boxes mark the areas for the left and right arm span, used to detect which side of the body.
 
