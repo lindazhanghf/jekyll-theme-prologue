@@ -11,7 +11,7 @@ order: 7
 
 ### Documents
 
-For detailed documentations, please refer to: <a href="https://drive.google.com/open?id=1I5cARrjF9TYZXxFUK9tdSBzoi-KT6lu5" target="_blank"><b>Project Documentation</b></a> and <a href="https://drive.google.com/open?id=1I5cARrjF9TYZXxFUK9tdSBzoi-KT6lu5" target="_blank"><b>Defence Presentation</b></a>. The initial idea of this project are presented in: <a href="https://drive.google.com/open?id=1I5cARrjF9TYZXxFUK9tdSBzoi-KT6lu5" target="_blank"><b>Project Proposal</b></a>.
+For detailed documentations, please refer to: <a href="https://drive.google.com/open?id=1I5cARrjF9TYZXxFUK9tdSBzoi-KT6lu5" target="_blank"><b>Project Documentation</b></a> and <a href="https://drive.google.com/open?id=1I5cARrjF9TYZXxFUK9tdSBzoi-KT6lu5" target="_blank"><b>Defence Presentation</b></a>. The initial idea of this project is presented in: <a href="https://drive.google.com/open?id=1I5cARrjF9TYZXxFUK9tdSBzoi-KT6lu5" target="_blank"><b>Project Proposal</b></a>.
 
 ### Evaluation
 No formal evaluation was possible, due to the Covid-19 pandemic. But the targeted design criteria would focus on compliance with Shneiderman's principles of designing comprehensible, predictable and controllable user interfaces.

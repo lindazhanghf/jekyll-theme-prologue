@@ -25,7 +25,7 @@ VR provides the sense of embodiment by mapping the player's movement to the avat
 <div class="row">
   <div class="4u 12u$(mobile)">
     <div class="item">
-      <a class="image fit"><img src="assets/images/related-works/psvr-controllers.png" alt="PlayStation VR Controllers" /></a>
+      <a class="image fit"><img src="assets/images/related-works/psvr-controllers.jpg" alt="PlayStation VR Controllers" /></a>
       <header>
         <h3>PlayStation VR Controllers</h3>
       </header>
