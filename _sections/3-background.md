@@ -38,6 +38,6 @@ Lee et al. provided a set of hand gestures to control avatars in their Virtual O
   </div>
 </div>
 
-***The Unspoken*** is a VR action game in which players duel with other magicians by casting spells using gestures. The gesture interactions take advantage of embodiment in VR, which makes the game much more compelling.
+[***The Unspoken***](https://insomniac.games/game/the-unspoken) is a VR action game in which players duel with other magicians by casting spells using gestures. The gesture interactions take advantage of embodiment in VR, which makes the game much more compelling.
 
-***Falcon Age*** provides great examples of communicating and interacting with an animal companion--a falcon. As you play and direct your virtual falcon, the interactions involves various gestures commands such as **Whistle to call it over** and **point to direct its action**. Although this game presented multiple ways to interact with the falcon, only a few are incorporated into the actual gameplay.
+[***Falcon Age***](https://www.falconage.com) provides great examples of communicating and interacting with an animal companion--a falcon. As you play and fight enemies with your virtual falcon, the interactions involves various gestures commands such as **whistle to call it over** and **point to direct its action**. Although this game presented multiple ways to interact with the falcon, only a few are incorporated into the actual gameplay.

@@ -4,6 +4,7 @@ icon: fa-lightbulb
 <!-- icon-style: regular -->
 order: 2
 ---
+<!-- <iframe width="560" height="315" src="https://linndz.com/ms-video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 
 There currently is not a standard unified interface in Virtual Reality (VR), and even though interfaces start to allow gesture-based interaction many user interfaces are directly borrowed from 2D surface interactions. Too few experiences fully leverage the embodiment in VR. To address those issues and to explore a new design space, this project proposes an alternative gesture control scheme based on human-animal interaction. A interactive prototype is presented where the player use gestures to command an animal companion to finish tasks.
 
